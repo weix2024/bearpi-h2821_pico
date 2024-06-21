@@ -4,3 +4,7 @@
 .deveco/
 
 out/
+
+output/
+
+**/__pycache__
